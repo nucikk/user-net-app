@@ -1,0 +1,15 @@
+C:\Users\user\user-net-app\userInfo\bin\Debug\net7.0\userInfo.exe
+C:\Users\user\user-net-app\userInfo\bin\Debug\net7.0\userInfo.deps.json
+C:\Users\user\user-net-app\userInfo\bin\Debug\net7.0\userInfo.runtimeconfig.json
+C:\Users\user\user-net-app\userInfo\bin\Debug\net7.0\userInfo.dll
+C:\Users\user\user-net-app\userInfo\bin\Debug\net7.0\userInfo.pdb
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.csproj.AssemblyReference.cache
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.AssemblyInfoInputs.cache
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.AssemblyInfo.cs
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.csproj.CoreCompileInputs.cache
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.dll
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\refint\userInfo.dll
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.pdb
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\userInfo.genruntimeconfig.cache
+C:\Users\user\user-net-app\userInfo\obj\Debug\net7.0\ref\userInfo.dll
